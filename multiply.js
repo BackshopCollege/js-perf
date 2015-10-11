@@ -5,7 +5,7 @@ function multiply(x, y) {
 // hello from brazil                                                                                                                                 
 // hello from portugal                                                                                                                               
 // hello from bali                                                                                                                                   
-  return (x * y);
+  return(x * y); 
 }
 
 for(var i = 0; i < 500000000; i++) {
