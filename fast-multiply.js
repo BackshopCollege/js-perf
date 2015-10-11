@@ -1,10 +1,10 @@
 "use strict"
 
-function multiply(x, y) {
+function multiply(x, y)  {
 // hello from martian                                                                                                                                 
 // hello from brazil                                                                                                                                  
 // hello from portugal                                                                                                                                
-// hello from bali                                                                                                     
+// hello from bali                                                                                                    
   return(x * y);
 } 
 
