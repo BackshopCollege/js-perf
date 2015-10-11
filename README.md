@@ -13,9 +13,9 @@ node -v
 # 4.1.1 or 0.12.7
 
 time node multiply.js
-real    0m1.384s
-user    0m1.366s
-sys     0m0.012s
+real    0m2.397s
+user    0m2.179s
+sys     0m0.024s
 
 time node fast-multiply.js
 real    0m0.363s
