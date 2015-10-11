@@ -8,6 +8,6 @@ function multiply(x, y) {
   return (x + y);
 }
 
-for(let i = 0; i < 500000000; i++) {
+for(var i = 0; i < 500000000; i++) {
   multiply(i, i++);
 }
